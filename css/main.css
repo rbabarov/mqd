@@ -106,7 +106,6 @@ img {
 
 .popup-question {
   margin-bottom: 10px;
-  resize:none;
 }
 
 .popup-field {
@@ -861,6 +860,7 @@ img {
   width: 100%;
   padding: 16px;
   font-size: 13px;
+  resize:none;
   font-family: 'Open Sans', sans-serif;
   color: #707171;
   background-color: #f4f7f6;
