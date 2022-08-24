@@ -1146,5 +1146,5 @@ img {
 }
 
 ._hidden {
-  display: block;
+  display: flex;
 }
