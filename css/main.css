@@ -859,8 +859,8 @@ img {
 .form-text {
   width: 100%;
   padding: 16px;
-  font-size: 13px;
   resize:none;
+  font-size: 13px;
   font-family: 'Open Sans', sans-serif;
   color: #707171;
   background-color: #f4f7f6;
